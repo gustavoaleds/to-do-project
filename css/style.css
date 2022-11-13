@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: #E7F4FA;
+}
+
+header h1{
+    font-size: 40px;
+    padding: 10px;
+}
+
+/* HOME PAGE */
+
+#titulo-homepage{
+    font-size: 48px;
+    font-weight: 400;
+}
+
+#descricao-homepage{
+    font-size: 19px;
+    font-weight: 300;
+}
+
+#botao-homepage{
+    border-radius: 10px;
+    width: 140px;
+    height: 40px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+}
