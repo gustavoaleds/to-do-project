@@ -2,31 +2,46 @@
 
 *{
     font-family: 'Lexend Deca', sans-serif;
-    background-color: #E7F4FA;
+    margin: 0;
 }
-
+body{
+    width: 100%;
+}
 header h1{
     font-size: 40px;
     padding: 10px;
 }
 
-/* HOME PAGE */
-
-#titulo-homepage{
-    font-size: 48px;
-    font-weight: 400;
-}
-
-#descricao-homepage{
-    font-size: 19px;
-    font-weight: 300;
-}
-
-#botao-homepage{
-    border-radius: 10px;
-    width: 140px;
-    height: 40px;
-    font-weight: 600;
+header{
     background-color: black;
     color: white;
+}
+
+.principal-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.principal-title{
+    margin: 0;
+    position: absolute;
+    top: 43%;
+    left: 37%;
+    font-size: 30px;
+}
+
+button{
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    border-radius: 8px;
+    width: 120px;
+    height: 35px;
+}
+
+.textcamp{
+    width: 300px;
+    height: 30px;
+    border: solid black;
 }
