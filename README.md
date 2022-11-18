@@ -7,7 +7,7 @@
 ### Prototype
 
 <a href="https://imgbox.com/mFLqRNf0" target="_blank"><img src="https://images2.imgbox.com/04/50/02DtXD9j_o.png" alt="imagem"/></a>
-<p>Result of the prototyping performed in the FIGMA software. In the image we can see the welcome page and then the to-do list page.</p>
+<p>Result of the prototyping performed in the FIGMA software.</p>
 
 ## Technologies
 
@@ -21,10 +21,10 @@ To became the project possible, I use 3 differents technologies:
 ### Protótipo
 
 <a href="https://imgbox.com/mFLqRNf0" target="_blank"><img src="https://images2.imgbox.com/04/50/02DtXD9j_o.png" alt="imagem"/></a>
-<p>Resultado da prototipação realizado no software FIGMA. Na imagem podemos ver a página de boas-vindas e em seguida a página da lista to-do.</p>
+<p>Resultado da prototipação realizado no software FIGMA.</p>
 
 ## Tecnologias
 
 Para tornar o projeto possível utilizei 3 diferentes tecnologias:
 
-***HTML, CSS e Javascript.***
+***FIGMA, HTML, CSS e Javascript.***
